@@ -1,12 +1,12 @@
 ## **vue3-element-vite-template**
 
-\> 一款可视化编辑元素并生成html的vue操作组件
+> 一款可视化编辑元素并生成html的vue操作组件
 
 [github在线预览地址](https://maxfengyan.github.io/vue3-admin-template-vite/#/)
 
 [gitee在线预览地址](https://maxfengyan.github.io/vue3-admin-template-vite/#/)
 
-\> 此项目参考 [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)实现，做了较大改动，抛弃vuex依赖，改为纯vue组件状态开发，vue3+vite，组件即拿即用，移植方便可当作组件嵌入vue项目中
+> 此项目参考 [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)实现，做了较大改动，抛弃vuex依赖，改为纯vue组件状态开发，vue3+vite，组件即拿即用，移植方便可当作组件嵌入vue项目中
 
 ### 嵌入方式
 
