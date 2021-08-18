@@ -18,11 +18,11 @@
 
 ### 项目截图
 
-![正常模式](./markimg/1.png)
+![正常模式](./markImg/1.png)
 
-![正常模式](./markimg/2.png)
+![正常模式](./markImg/2.png)
 
-![正常模式](./markimg/3.png)
+![正常模式](./markImg/3.png)
 
 #### 完成功能：
 
