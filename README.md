@@ -1,8 +1,31 @@
-#### 此组件参考 [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)实现，做了较大的改动，抛弃了vuex的依赖，改为纯组件无依赖状态，即拿即用。
-#### time 2021-07-29
-#### auth mafengyan
+## **vue3-element-vite-template**
+
+\> 一款可视化编辑元素并生成html的vue操作组件
+
+[github在线预览地址](https://maxfengyan.github.io/vue3-admin-template-vite/#/)
+
+[gitee在线预览地址](https://maxfengyan.github.io/vue3-admin-template-vite/#/)
+
+\> 此项目参考 [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)实现，做了较大改动，抛弃vuex依赖，改为纯vue组件状态开发，vue3+vite，组件即拿即用，移植方便可当作组件嵌入vue项目中
+
+### 嵌入方式
+
+1.复制src/visual-drag文件夹到新项目中
+
+2.在vue中以component形式引入src/visual-drag/index.vue或者以router形式指向src/visual-drag/index.vue文件即可
+
+**tips: 确保新项目引入element-plus**
+
+### 项目截图
+
+![正常模式](./markimg/1.png)
+
+![正常模式](./markimg/2.png)
+
+![正常模式](./markimg/3.png)
 
 #### 完成功能：
+
 |      左侧预览区      | 画布区域 | 顶部区域 | 右侧菜单区域 |
 | :------------------: | :------: | :------: | :----------: |
 | 组件拖拽调整层级顺序 |  图片组件         | 清空画布 | 图片上传修改 |
@@ -27,7 +50,7 @@
 | :------------------: | :------: | :------: | :----------: |
 | 点击预览区域组件定位组件 |  画布自定义尺寸  | 操作步骤回退/前进 | 添加事件 |
 |    |  组件吸附   | 组合 | 添加动画 |
-|    |  标线显示     | 保存 |  |
+|    |  标线显示     |  |  |
 |                |  下边界自动延伸    |  |  |
 |                |    |  |              |
 |                   |    |  |              |

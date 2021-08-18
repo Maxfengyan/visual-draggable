@@ -2,7 +2,8 @@
   <div class="special">
     <!-- 顶部-按钮+全局配置 区域 -->
     <div class="special-top">
-      <backbutton />
+      <!-- 返回 -->
+      <!-- <backbutton /> -->
       <!-- 按钮操作区 -->
       <buttongroup
         @addComponent="createComponent"

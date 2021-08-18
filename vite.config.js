@@ -23,13 +23,13 @@ export default defineConfig({
       ],
     }),
   ],
-  build: {
+  /* build: {
     manifest: true,
     rollupOptions: {
       // 覆盖默认的 .html 入口
       input: "/path/to/main.js",
     },
-  },
+  }, */
   server: {
     port: 9002,
   },
