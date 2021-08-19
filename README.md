@@ -4,7 +4,7 @@
 
 [github在线预览地址](https://maxfengyan.github.io/visual-draggable/index.html)
 
-[gitee在线预览地址](https://maxfengyan.github.io/visual-draggable/index.html)
+[gitee在线预览地址](https://maxfengyan.gitee.io/visual-drag/index.html)
 
 > 此项目参考 [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)实现，做了较大改动，抛弃vuex依赖，改为纯vue组件状态开发，vue3+vite，组件即拿即用，移植方便可当作组件嵌入vue项目中
 
